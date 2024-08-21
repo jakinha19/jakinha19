@@ -2,7 +2,7 @@ BOAS VINDAS AO MEU PERFIL.. 👋
 
 <!--oi ! Meu nome é Jaqueline Kosinski
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJO6SXBv5OU_ycfzpJ4i3cPxBdFarI7S1EkA&s)
+![](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
